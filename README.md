@@ -1,2 +1,2 @@
-# common.jl
-common helper functions 
+# Kaggler.jl
+kaggler helper functions 
